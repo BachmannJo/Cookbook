@@ -7,4 +7,4 @@ We like chicken!
 
 Also Turtles:
 
-![Visit my OF](https://gepado.de/wp-content/uploads/2014/02/team_mike_schlott.png)
+![Visit my OF]https://www.mein-schoener-garten.de/sites/default/files/styles/inline_scaled_l/public/riesengemu%CC%88se-kuerbis-patrick-teichmann-DSC_1540-teichmann.jpg?itok=EmFIUa1j
